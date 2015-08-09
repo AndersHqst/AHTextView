@@ -1,8 +1,5 @@
-//
 //  AHTextView.swift
-//
 //  Created by Anders Høst Kjærgaard on 09/08/2015.
-//
 
 import Foundation
 import UIKit
