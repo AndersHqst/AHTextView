@@ -30,7 +30,7 @@ class AHTextView: UITextView {
     
     func addObservers() {
         
-        // Guard to not add observers twice
+        // Guard to not add observers more than once
         NSNotificationCenter.defaultCenter().removeObserver(self)
         
         // Observe UITextView text changes to update the placeholder accordingly
