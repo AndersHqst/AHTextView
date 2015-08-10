@@ -10,5 +10,5 @@ Simply grap the AHTextView.swift file from this repositor, or use CocoaPods addi
      use_frameworks!
      pod 'AHTextView', :git => 'https://github.com/AndersHqst/AHTextView'
 
-## Copyright
+## License
 MIT
